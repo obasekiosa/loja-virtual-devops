@@ -21,6 +21,11 @@
             <name>public releases</name>
             <url>http://www.broadleafcommerce.org/nexus/content/repositories/snapshots/</url>
         </repository>
+        <repository>
+            <id>central-repo</id>
+            <name>Central Repository</name>
+            <url>https://repo1.maven.org/maven2</url>
+        </repository>
     </repositories>
     <build>
         <pluginManagement>
