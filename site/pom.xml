@@ -162,7 +162,7 @@
                             <runtime.environment>integrationdev</runtime.environment>
                         </systemProperties>
                         <zipUrlInstaller>
-                            <url>http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-distribution/8.1.14.v20131031/jetty-distribution-8.1.14.v20131031.tar.gz</url>
+                            <url>https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-distribution/8.1.14.v20131031/jetty-distribution-8.1.14.v20131031.tar.gz</url>
                         </zipUrlInstaller>
                         <timeout>300000</timeout>
                     </container>
